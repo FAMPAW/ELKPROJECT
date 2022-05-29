@@ -1,4 +1,4 @@
-## Automated ELK Stack Deployment
+### Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
 
@@ -25,7 +25,7 @@ Load balancing ensures that the application will be highly efficient, in additio
 the load balancer helps to distribute traffic between webservers so that they are not overwelmed  so they are not overwhelmed by the thousands of user requests. Thus helps to prevents denial of service attacks(DoS) and ensuring that data is readily available at everytime. the jumpbox was used to access the different virtual machines via SSH 
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the metrics and system files.
- 
+
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
